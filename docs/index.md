@@ -8,7 +8,7 @@ Here you can follow step-by-step tutorials and practical examples to learn Veril
 ## Contents
 
 ### Examples
-- [and gate](../gates/and_gate)
+- [and gate](gates/and_gate)
 - [or gate](../gates/or_gate) 
 - [nand gate](../gates/nand_gate)  
 - [nor gate](../gates/nor_gate)  
