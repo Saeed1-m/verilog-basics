@@ -8,10 +8,10 @@ Here you can follow step-by-step tutorials and practical examples to learn Veril
 ## Contents
 
 ### Examples
-- [AND Gate](../examples/and_gate.v)  
-- [AND Gate Testbench](../examples/and_gate_tb.v)  
-- [4-bit Counter](../examples/counter4.v)  
-- [4-bit Counter Testbench](../examples/counter4_tb.v)  
+- [and gate](../gates/and_gate)  
+- [nand gate](../gates/nand_gate)  
+- [nor gate](../gates/nor_gate)  
+- [or gate](../gates/or_gate)  
 
 ### Simulation
 You can run these examples locally using Icarus Verilog:
