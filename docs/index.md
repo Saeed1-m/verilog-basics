@@ -13,14 +13,6 @@ Here you can follow step-by-step tutorials and practical examples to learn Veril
 - [nand gate](https://github.com/saeed1-m/verilog-tutorial/blob/main/gates/nand_gate)
 - [nor gate](https://github.com/saeed1-m/verilog-tutorial/blob/main/gates/nor_gate)
 
-- [AND Gate](https://github.com/saeed1-m/verilog-tutorial/blob/main/gates/and_gate)
-- [OR Gate](https://github.com/saeed1-m/verilog-tutorial/blob/main/gates/or_gate)
-- [NAND Gate](https://github.com/saeed1-m/verilog-tutorial/blob/main/gates/nand_gate)
-- [NOR Gate](https://github.com/saeed1-m/verilog-tutorial/blob/main/gates/nor_gate)
-
-
- 
-
 ### Simulation
 You can run these examples locally using Icarus Verilog:
 
