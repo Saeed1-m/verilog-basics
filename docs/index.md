@@ -9,7 +9,7 @@ Here you can follow step-by-step tutorials and practical examples to learn Veril
 
 ### Examples
 
-- [and gate](https://github.com/saeed1-m/verilog-tutorial/blob/main/gates/and_gate.v)
+- [and gate](https://github.com/saeed1-m/verilog-tutorial/blob/main/gates/and_gate)
 - [or gate](../gates/or_gate) 
 - [nand gate](../gates/nand_gate)  
 - [nor gate](../gates/nor_gate)  
